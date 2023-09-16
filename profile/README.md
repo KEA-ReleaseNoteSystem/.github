@@ -52,7 +52,7 @@ ChatGPT를 활용하여 이슈의 중요도를 평가하고 프로젝트 매니�
 ![Jmeter](https://img.shields.io/badge/apachejmeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![lighthouse](https://img.shields.io/badge/lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
 
-> KiC(Kakao i Cloude)에 배포 및 운영
+> KiC(Kakao i Cloud)에 배포 및 운영
 
 
 ## 시연 영상
